@@ -361,6 +361,32 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/nstk.svg"
         }
       ]
+    },
+    {
+      "description": "PLanktonkoin on Kujiura",
+      "address": "kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh",
+      "denom_units": [
+        {
+          "denom": "factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk",
+          "exponent": 0
+        },
+        {
+          "denom": "plnk",
+          "exponent": 6
+        }
+      ],
+      "base": "factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk",
+      "name": "PLNK",
+      "display": "plnk",
+      "symbol": "PLNK",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/nstk.svg"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/nstk.svg"
+        }
+      ]
     }
   ]
 }
